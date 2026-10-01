@@ -1,4 +1,4 @@
-name: CI
+billy name: CI
 
 on:
   push:
